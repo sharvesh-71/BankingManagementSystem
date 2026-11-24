@@ -73,7 +73,7 @@ BankingManagementSystem/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/BankingManagementSystem.git
+   git clone https://github.com/sharvesh-71/BankingManagementSystem.git
    ```
 
 2. Navigate to the project directory:
